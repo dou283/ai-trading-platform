@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Sanal ortam
+.venv/
+venv/
+env/
+
+# Kişisel veri / Portföy kayıtları (sunucuya gönderilmez)
+data/
+
+# Log dosyaları
+logs/
+
+# Test cache
+.pytest_cache/
+.coverage
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
